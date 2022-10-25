@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Rodrigo Danniel</h1>
 <h3 align="center">Um cientista de dados / analista de dados em transição de carreira</h3>
 
-- 🌱 atualmente estou atualizando sobre * *Lógica de programação através de JavaScript e Power BI**
+- 🌱 Atualmente estou estudando sobre * *Lógica de programação através de JavaScript e Power BI**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/rodrigodanniel/logicadeprogramacao](https://github.com/rodrigodanniel/logicadeprogramacao)
 
